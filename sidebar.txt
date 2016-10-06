@@ -17,3 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/dic|Ethnologue data]]
 
+
+**Resources**
+
+  * [[dic:obs|Open Bible Stories (dic)]]
